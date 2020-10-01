@@ -43,7 +43,7 @@
 
 
 ## PyTorchで作る再帰型ネットワーク（中級編3）
-1.  RNN
+1.  [RNN](https://colab.research.google.com/github.com/himidev/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/01-03_RNN.ipynb)
 2.  LSTMによる電力予測
 3.  GRUによる電力予測
 4.  LSTMによる文章生成
