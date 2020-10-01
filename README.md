@@ -46,10 +46,9 @@
 1.  RNN
 2.  LSTMによる電力予測
 3.  GRUによる電力予測
-4.  LSTMによる文章生成
-5.  Encoder-Decoderによる機械翻訳
-6.  アテンションによる機械翻訳
-7.  ConvLSTM（Moving MNIST）
+4.  Encoder-Decoderによる計算機作成
+5.  Attention機構による曜日変換
+6.  Convolutional LSTMによる動画像予測
 
 
 ## PyTorchで作る強化学習（中級編4）
